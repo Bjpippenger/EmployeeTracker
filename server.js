@@ -5,9 +5,9 @@ const cTable = require('console.table');
 // Create a connection to the MySQL database
 const connection = mysql.createConnection({
     host: "localhost",
-    port: 3306,
+    port: 3000,
     user: "root",
-    password: "",
+    password: "!z<DuiPi|0xUrF",
     database: "employee_tracker_db",
   });
 
