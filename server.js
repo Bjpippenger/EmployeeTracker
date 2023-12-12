@@ -1,6 +1,15 @@
 const inquirer = require('inquirer');
+const mysql = require('mysql2')
 const cTable = require('console.table');
-const db = require('./db/connection');
+
+// Create a connection to the MySQL database
+const connection = mysql.createConnection({
+    host: "localhost",
+    port: 3306,
+    user: "root",
+    password: "",
+    database: "employee_tracker_db",
+  });
 
 
 // All Question Arrays
