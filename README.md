@@ -39,4 +39,4 @@ THEN I am prompted to select an employee to update and their new role and this i
 ```
 
 ## Mock-Up
-created a backend application that propmts you questions to answer and see or update employees their roles and departments.
+created a backend application that prompts you questions to answer and see or update employees their roles and departments.
