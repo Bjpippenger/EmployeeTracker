@@ -13,7 +13,7 @@
 ${Employee-Tracker}
 ## Description
 ${description}
-i simple appliction and databse to track employees for a company.
+backend application to view an employee database with roles and departments
 ## Installation
 ${installation}
 Download git repository, ensure you have proper dependencies as followed.
@@ -22,7 +22,7 @@ mysql2
 console.table
 ## Usage
 ${usage}
-to start application run node tracker.js to view data log into mysql and view the database
+node server.js to run commandline prompts and see employee database information
 ## Features
 ${features}
 create department,role,salary
