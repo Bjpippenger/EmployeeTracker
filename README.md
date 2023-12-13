@@ -41,9 +41,7 @@ THEN I am prompted to select an employee to update and their new role and this i
 ## Mock-Up
 created a backend application that prompts you questions to answer and see or update employees their roles and departments.
 
-${screenshots}
-(../../Pictures/Screenshots/employeetrackerfunction.png)
-
-(../../Pictures/Screenshots/employeetracker.png)
+![Screenshot 1](../../Pictures/Screenshots/employeetrackerfunction.png)
+![Screenshot 2](../../Pictures/Screenshots/employeetracker.png)
 
 <video src="../../Videos/employeetracker.mp4" controls title="Title"></video>
