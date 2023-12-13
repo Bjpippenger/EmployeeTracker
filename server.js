@@ -11,7 +11,6 @@ const connection = mysql.createConnection({
     database: "employee_tracker_db",
   });
 
-
 // All Question Arrays
 const startMenuQuestion = [
   {
