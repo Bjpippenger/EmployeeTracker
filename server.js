@@ -91,14 +91,6 @@ const chooseEmployeeQuestion = [
   },
 ];
 
-const updateEmployeeRoleQuestion = [
-  {
-    type: "input",
-    name: "role_id",
-    message:
-      'What new role would you like for your employee? Please only type the number of the "id" of the role! (i.e. "4")',
-  },
-];
 
 // All functions to use for manipulating MySQL database
 const addRole = async () => {
